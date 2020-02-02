@@ -1,7 +1,7 @@
 button {
-    font-size: 40px;
+    font-size: 20px;
     margin: 1rem;
-    border-radius: 100px;
+    border-radius: 20px;
 }
 /* review how to center with flex below */
 .centre {
